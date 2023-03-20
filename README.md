@@ -3,8 +3,6 @@
 <img src="https://img.shields.io/badge/anxi4353@gmail.com-8B89CC?style=flat-square&logo=Gmail&logoColor=white"/>
 
 
-I love running, swimming, baskeball, Climing, Mahjong, playing guitar!
-
 I wanna be **Challenger Developer** any place, anytime.
 
 
