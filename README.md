@@ -6,7 +6,7 @@
 I wanna be **Challenger Developer** any place, anytime.
 
 
-## Skills
+## :sparkles: Skills
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -18,8 +18,8 @@ I wanna be **Challenger Developer** any place, anytime.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
-## CodeTest
+## :fire: CodeTest
 [더 나은 개발자가 되기 위해서! ](https://github.com/POONGNHA/programmers)
 
-## Projects
+## :yellow_heart: Projects
 [23'02'01 ~ 23'03'10 KH team](https://github.com/keamy-eun/final_springboots)
