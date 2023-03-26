@@ -25,3 +25,6 @@ I wanna be **Challenger Developer** any place, anytime.
 [23'02'01 ~ 23'03'10 KH team](https://github.com/keamy-eun/final_springboots)
 
 [23'03'21 ~ 해외 소액결제 쇼핑몰 프로젝트](https://github.com/POONGNHA/codingtest_springboots)
+
+## ⚔️: IT Information
+[면접 준비 및 공부](https://github.com/POONGNHA/Interview_Study)
