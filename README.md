@@ -5,6 +5,8 @@
 
 I wanna be **Challenger Developer** any place, anytime.
 
+# 😊 2023's Goal : 정보처리기사 / 연봉 500 상승
+
 
 ## :sparkles: Skills
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
