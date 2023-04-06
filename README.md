@@ -5,7 +5,7 @@
 
 I wanna be **Challenger Developer** any place, anytime.
 
-## 😊 2023's Goal : 정보처리기사 취득 / 연봉 500 상승
+## 😊 2023's Goal : 정보처리기사 취득
 
 
 ## :sparkles: Skills
