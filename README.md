@@ -32,4 +32,4 @@ I wanna be **Challenger Developer** any place, anytime.
 [면접 준비 및 공부](https://github.com/POONGNHA/Interview_Study)
 
 ## 🐶: carrer
-23'04'10 : [한국공간정보통신](https://www.ksic.net/) 입사
+23'04'10 ~ : [한국공간정보통신](https://www.ksic.net/)
