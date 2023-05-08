@@ -28,6 +28,8 @@ I wanna be **Challenger Developer** any place, anytime.
 
 [23'03'21 ~ 해외 소액결제 쇼핑몰 프로젝트](https://github.com/POONGNHA/codingtest_springboots)
 
+[23'05'08 ~ 작혼 유저 데이터를 이용한 AI 예측으로 승률 계산 및 예측 웹 페이지 제작]()
+
 ## ⚔️: IT Information
 [면접 준비 및 공부](https://github.com/POONGNHA/Interview_Study)
 
