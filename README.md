@@ -33,5 +33,8 @@ I wanna be **Challenger Developer** any place, anytime.
 ## ⚔️: IT Information
 [면접 준비 및 공부](https://github.com/POONGNHA/Interview_Study)
 
+## 🚀: Language Study Project
+[Vue3 learning project](https://github.com/POONGNHA/vuedongsan)
+
 ## 🐶: carrer
 23'04'10 ~ : [한국공간정보통신](https://www.ksic.net/)
