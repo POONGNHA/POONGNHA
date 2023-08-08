@@ -19,7 +19,6 @@ I wanna be **Challenger Developer** any place, anytime.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white)
 
 ## :fire: CodeTest
 [더 나은 개발자가 되기 위해서! ](https://github.com/POONGNHA/programmers)
